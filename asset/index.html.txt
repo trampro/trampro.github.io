@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./asset/css/main.css">
+    <link rel="stylesheet" href="./asset/font/themify-icons/themify-icons.css">
+    <link rel="stylesheet" href="./asset/font/fontawesome-free-5.15.4-web/css/fontawesome.min.css">
+    <link rel="stylesheet" href="./asset/font/fontawesome-free-6.0.0-web/css/all.min.css">
+    <title>Shop online</title>
+</head>
+    <div class="header">
+        <div class="header-heading">
+            <div class="header-heading-left">
+                <span class="text">
+                    <p class="text-QR">Quét mã QR  <span class="haha">|</span> 
+                        <div class="persuade">
+                            <img src="./asset/img/QR_Code_Zalo.jpg" alt="" class="persuade-img">
+                        </div>
+                    </p>
+                </span>
+                <p class="text-contact"> Kết nối với chúng tôi qua </p>
+                <a class="" href="">
+                    <img src="./asset/img/Google__G__Logo.svg.png" title="Tìm kiếm trên Google " alt="" class="header-heading-left-img">
+                </a>
+                <a class="" href="">
+                    <img src="/asset/img/Icon_Facebook.png" title="Truy cập vào Facebook" alt="" class="header-heading-left-img">
+                </a>
+                <a class="" href="">
+                    <img src="/asset/img/Circle-icons-mail.svg.png" title="Truy cập tới Email" alt="" class="header-heading-left-img">
+                </a>
+            </div>
+            <div class="header-heading-right">
+                <ul>
+                    <li class="header-heading-right-item"> <a class="css-DN-DK" href="">Đăng nhập</a> </li>
+                    <li> <a class="css-DN-DK" href="">Đăng ký</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="title-header">
+            <div class="title-header-logo">
+               <img src="./asset/img/Logo-1.jpg" alt="" class="title-header-logo-item" title="Đây là LoGo của Anh Hào đẹp trai"> 
+            </div>
+            <div class="title-header-check">
+                <img src="./asset/img/Icon_Cart.png" alt="" class="title-header-cart-item">
+                <span class="css-GH">Giỏ Hàng</span>
+                <div class="title-header-SP">
+                    <div class="title-header-SP-item">
+                       <p class="css-SP">0 sản phẩm</p>
+                    <p class="css-0d">0 đ</p> 
+                    </div>    
+                </div>
+                
+            </div>
+            <div class="title-header-contact">
+                <div class="title-header-contact-phone" title="Liên với với số này!"> 
+                    <img src="./asset/img/Phone.jpg" alt="" class="css-img-phone" >
+                    Support: 09390560**</div>
+            </div>
+            <div class="title-header-search">
+                <form action="">
+                    <input type="text" class="title-header-search-input" placeholder="Tìm kiếm sản phẩm của bạn">
+                    <button type="submit" class="title-header-search-btn" title="Tìm kiếm">
+                        <img src="./asset/img/Icon-Search.jpg" alt="" class="title-header-search-btn-icon">
+                    </button>
+                </form>
+            </div>
+
+        </div>
+        <header class="header-title">
+           
+        <ul class="header-title-list">
+            <li class="header-title-list-items-img">
+                <div>
+                    <a href="">
+                        <img src="./asset/img/Icon-Home.jpg" alt="" class="header-title-home-icon">
+                    </a>
+                </div>
+            </li>
+            <li class="header-title-list-items ">
+                <a href="" class="header-list-items" title="Về trang chính">Trang chủ</a>
+            </li>
+            <li class="header-title-list-items">
+                <a href="" class="header-list-items">Giới thiệu</a>
+                </li>
+            <li class="header-title-list-items-more-4">
+                <a class="header-list-items-more-3 header-list-items-more-2 header-list-items-TTN" href="">Thời trang nam</a>
+                </li>
+            <li class="header-title-list-items">
+                <a href="" class="header-list-items">Thời trang nữ</a>
+                </li>
+            <li class="header-title-list-items header-title-list-items-more-0 header-title-list-items-more-1">
+                <a href="" class="header-list-items">Hướng dẫn mua hàng</a>
+            </li>
+            <li class="header-title-list-items">
+                <a href="" class="header-list-items">Liên hệ</a>
+                </li>
+            <li class="header-title-list-items header-title-list-items-more">
+                <a href="" class="header-list-items">Trợ giúp</a>
+                </li>
+        </ul>
+    </header>
+    <div class="container">
+        <div class="container-content">
+            <div class="grid">
+                <div class="grid-col-DM">
+                    <ul class="container-list">
+                        <h2 class="container-title">Quần áo nữ</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo thun nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo sơ mi nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo vếu</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Váy</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM"> Đầm</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Quần Jeans</a>
+                            </li>
+                        <h2 class="container-title">Quần áo nữ</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Giày cao gót</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Quần lọt khe ren</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đồ mèo cosplay</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM"> Roi</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Xích cổ</a>
+                            </li>
+                    </ul>          
+                </div>
+                <!-- 1 -->
+                <div class="grid-col">
+                    <a href="" class="">
+                    <div class="content">
+                        <img src="./asset/img/Item-02.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">Đồ cosplay Nữ</h5>
+                        <p class="price-item">2.000.000 đ</p>
+                        <div class="icon-label">
+                            <div class="icon-stars">
+                                <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                <i class="fa-solid fa-star icon-stars-item"></i>
+                            </div>
+                            <div class="icon-heart icon-heart-item-activated">
+                                <i class=" fa-solid fa-heart "></i>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+                <!-- 2 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-01.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">46%</span> </span>
+                        <h5 class="name-item">Váy ngủ</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">1.000.000 đ</span>
+                            565.000 đ</p>
+                        <div class="icon-label">
+                            <div class="icon-stars">
+                                <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                <i class="fa-solid fa-star icon-stars-item"></i>
+                            </div>
+                            <div class="icon-heart icon-heart-item-activated">
+                                <i class=" fa-solid fa-heart "></i>
+                            </div>
+                        </div>
+                    </div>
+                    </a>
+                </div>
+                <!-- 3 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-011.webp" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">54%</span> </span>
+                        <h5 class="name-item">Đầm Nữ Pijama</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">975.000 đ</span>
+                            450.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>  
+                <!-- 4 -->
+                <div class="grid-col-DM">
+                    <ul class="container-list">
+                        <h2 class="container-title">Quần áo Nam</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo thun nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo sơ mi nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Quần thun nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đồ vest</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM"> Giày nam</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Quần Jeans nam</a>
+                            </li>
+                        <h2 class="container-title">Phụ kiện nam</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Giày thể thao</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Quần bò</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Thắt lưng</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM"> Áo khoác nam</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Găng tay thanos</a>
+                            </li>
+                    </ul>          
+                </div>         
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-03.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">VEST Nam </h5>
+                        <p class="price-item">
+                            10.000.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div> 
+                <!-- 5 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-05.webp" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">Quần jeans Nam</h5>
+                        <p class="price-item">  
+                            256.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart ">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div> 
+                <!-- 6 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-04.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">50%</span> </span>
+                        <h5 class="name-item">Thắt Lưng DIOR Nam</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">15.000.000 đ</span>
+                            7.500.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div> 
+                <!-- 7 -->
+                <div class="grid-col-DM">
+                    <ul class="container-list">
+                        <h2 class="container-title">Linh kiện</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đồng hồ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Kính</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Mặt nạ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Mũ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Bao tay</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo choàng</a>
+                            </li>
+                        <h2 class="container-title">Thêm</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo choàng Nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo choàng Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo khoác dài Nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo khoác dài Nữ</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo ấm</a>
+                            </li>
+                    </ul>          
+                </div>
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-06.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">Đồng Hồ Solar</h5>
+                        <p class="price-item">
+                            1.276.000.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>
+                 <!--8  -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-07.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">25%</span> </span>
+                        <h5 class="name-item">Áo Khoác Nam</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">1.000.000 đ</span>
+                            750.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                          </a>  
+                    </div>
+                </div> 
+                <!-- 9 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-09.webp" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">15%</span> </span>
+                        <h5 class="name-item">Mũ Nam</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">700.000 đ</span>
+                            550.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div> 
+                <!-- 10 -->
+                <div class="grid-col-DM">
+                    <ul class="container-list">
+                        <h2 class="container-title">Danh mục</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo thun Nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo thun Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Dây chuyền</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Nhẫn</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Vòng tay</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đầm Nữ</a>
+                            </li>
+                        <h2 class="container-title">Thêm</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Trang sức</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đá quý</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Giày Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Vòng tay Nam</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Vòng tay Nữ</a>
+                            </li>
+                    </ul>          
+                </div>
+                <!-- 11 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-012.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">Áo thun Nam cổ tròn</h5>
+                        <p class="price-item">
+                            276.000. đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item "></i>
+                                </div>
+                                <div class="icon-heart ">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>
+                 <!--12  -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-13.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">11%</span> </span>
+                        <h5 class="name-item">Nhẫn vàng Nam đẹp</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">70.024.000 đ</span>
+                            60.050.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                          </a>  
+                    </div>
+                </div> 
+                <!-- 13 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-014.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">Kim cương</h5>
+                        <p class="price-item">
+                            41.000.000 đ
+                            </p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>   
+                <!-- 14 -->
+                <div class="grid-col-DM">
+                    <ul class="container-list">
+                        <h2 class="container-title">Sản phẩm</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đồng hồ Nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Kính Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Quần Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Mũ Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Bao tay Nữ</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo choàng lông Nữ</a>
+                            </li>
+                        <h2 class="container-title">Thêm</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo Hoodie Nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo Hoodie Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo choàng lông Nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Thắt lưng Nữ</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Balo</a>
+                            </li>
+                    </ul>          
+                </div>
+                <!-- 15 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-15.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">Áo Hoodie Nam</h5>
+                        <p class="price-item">
+                            238.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star "></i>
+                                    <i class="fa-solid fa-star "></i>
+                                </div>
+                                <div class="icon-heart ">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>
+                 <!--16  -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-16.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">15%</span> </span>
+                        <h5 class="name-item">Mũ Dort Nữ trắng</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">300.000 đ</span>
+                            250.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                          </a>  
+                    </div>
+                </div> 
+                <!-- 17 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-17.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">15%</span> </span>
+                        <h5 class="name-item">Đầm nữ đen</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">400.000 đ</span>
+                            350.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>  
+                <!-- 18 -->
+                <div class="grid-col-DM">
+                    <ul class="container-list">
+                        <h2 class="container-title">Sản phẩm</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đầm ngủ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đồ ngủ Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Đồng hồ Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Giày nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Giày Nữ</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo choàng nữ</a>
+                            </li>
+                        <h2 class="container-title">Thêm</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Dây chuyền Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Nhẫn Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Dây chuyền Nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM"> Mắt kính</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Bông tai</a>
+                            </li>
+                    </ul>          
+                </div>
+                <!-- 19 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-18.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">Đầm ngủ nữ</h5>
+                        <p class="price-item">
+                            476.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>
+                 <!-- 20  -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-19.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">25%</span> </span>
+                        <h5 class="name-item">Mắt kính Nam</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">1.000.000 đ</span>
+                            850.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                          </a>  
+                    </div>
+                </div> 
+                <!-- 21 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-20.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">10%</span> </span>
+                        <h5 class="name-item">Nhẫn Bạc Nữ</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">600.000 đ</span>
+                            550.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div> 
+                 <!-- 22 -->
+                <div class="grid-col-DM">
+                    <ul class="container-list">
+                        <h2 class="container-title">Sản phẩm mới</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Kính Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Dép Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Dép Nam</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Quần đùi Nữ</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Quần dài Nữ</a>
+                            </li>
+                        <h2 class="container-title">Thêm</h2>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Giày nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Vest Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Trang phục Cosplay Nữ</a>
+                            </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Áo sexy Nữ</a>
+                           </li>
+                        <li class="container-list-item"> 
+                            <a href="" class="container-click-DM">Balo Nữ</a>
+                            </li>
+                    </ul>          
+                </div>
+                <!-- 23 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-21.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">00%</span> </span>
+                        <h5 class="name-item">Quần ngắn Nữ</h5>
+                        <p class="price-item">
+                            236.000.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star "></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>
+                 <!-- 24 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-22.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">25%</span> </span>
+                        <h5 class="name-item">Đầm ngu Nữ sexy</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">1.000.000 đ</span>
+                            850.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                          </a>  
+                    </div>
+                </div> 
+                <!-- 25 -->
+                <div class="grid-col">
+                    <a href="">
+                    <div class="content">
+                        <img src="./asset/img/Item-23.jpg" alt="" class="content-img">
+                        <span class="sale-off"> <span class="reduce">Giảm</span>  <span class="percent">25%</span> </span>
+                        <h5 class="name-item">Quần dài Nữ</h5>
+                        <p class="price-item">
+                            <span class="price-item-more">900.000 đ</span>
+                            650.000 đ</p>
+                            <div class="icon-label">
+                                <div class="icon-stars">
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item icon-stars-item-activated"></i>
+                                    <i class="fa-solid fa-star icon-stars-item"></i>
+                                </div>
+                                <div class="icon-heart icon-heart-item-activated">
+                                    <i class="icon-heart fa-solid fa-heart "></i>
+                                </div>
+                            </div>
+                    </div>
+                    </a>
+                </div>                                               
+        </div>
+    </div>
+    <div class="border">
+    <marquee width="100%" height="100px" behavior="scroll" direction="right" top="50px">
+            <h2 class="name-slide"> 
+                <img class="animation" src="./asset/img/Item-010.webp" alt="">
+             </h2>           
+       </marquee>
+    </div> 
+    <!-- <div class="border-top"></div> -->
+    <footer class="footer">
+                <div class="footer-full">
+                <div class="footer-list-items">
+                    <h3 class="footer__heading-CSKH">
+                        <i class="footer-icon ti-headphone-alt"></i>
+                        Chăm sóc khách hàng</h3>
+                    <ul class="footer-list">
+                        <li class="footer-item">
+                            <a href="" class="footer-item__link">
+                                <i class="footer-icon fa-solid fa-mobile-screen-button"></i>
+                                Hot line: 0939056***</a>      
+                        </li>
+                        <li class="footer-item">
+                             <a href="" class="footer-item__link">
+                                <i class="footer-icon fa-solid fa-envelope"></i>
+                                Email: tunyhao@gmail.com</a>
+                        </li>
+                        <li class="footer-item">
+                            <a href="https://www.facebook.com/quannhi.ca.359" class="footer-item__link">
+                                <i class="footer-icon fa-brands fa-facebook"></i>
+                                Facebook: Nguyễn Văn Hào</a>
+                        </li>
+                        <li class="footer-item">
+                            <a href="https://www.instagram.com/nvh1752002/" class="footer-item__link">
+                                <i class="footer-icon ti-instagram"></i>
+                                Instagram: nvh1752002</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-list-items">
+                    <h3 class="footer__heading">Giới thiệu</h3>
+                    <ul class="footer-list">
+                        <li class="footer-item">
+                            <a href="/" class="footer-item__link">
+                                <i class="footer-icon ti-layout-grid3-alt"></i>
+                                Thành lập 2022</a>      
+                        </li>
+                        <li class="footer-item">
+                             <a href="/" class="footer-item__link">Công ty một thành viên</a>
+                        </li>
+                        <li class="footer-item">
+                            <a href="/" class="footer-item__link">Thương hiệu Handsome</a>
+                       </li>
+                    </ul>
+                </div>
+                <div class="footer-list-items">
+                    <h3 class="footer__heading">
+                        <!-- <i class="footer-icon fa-solid fa-info"></i> -->
+                        Thông tin chủ tịch</h3>
+                    <ul class="footer-list">
+                        <li class="footer-item">
+                            <a href="/" class="footer-item__link">Domestic: Nguyễn Văn Hào</a>      
+                        </li>
+                        <li class="footer-item">
+                             <a href="/" class="footer-item__link">Foreign: Nguyen Van Hao Dep Trai </a>
+                        </li>
+                        <li class="footer-item">
+                            <a href="/" class="footer-item__link">
+                                <i class="footer-icon ti-map-alt"></i>
+                                Hometown: Can Tho</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-list-items">
+                    <h3 class="footer__heading">Các mặt hàng</h3>
+                    <ul class="footer-list">
+                        <li class="footer-item">
+                            <a href="/" class="footer-item__link">
+                                <i class="footer-icon fa-solid fa-desktop"></i>        
+                                Phần cứng máy tính</a>      
+                        </li>
+                        <li class="footer-item">
+                             <a href="/" class="footer-item__link">Dịch vụ thuê người yêu</a>
+                        </li>
+                        <li class="footer-item">
+                            <a href="/" class="footer-item__link">
+                                <i class="footer-icon fa-solid fa-gun"></i>
+                                Vũ khí tấn công</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-list-items">
+                    <h3 class="footer__heading-CT">Contact with Hào Elegant</h3>
+                    <img src="./asset/img/QR_Code_Zalo.jpg" class="logo-zalo" alt="">
+                </div>
+        </div>
+        <div class="grid__footer-bottom">
+            <div class="grid">
+                <p class="footer__text">
+                    <i class="ti-themify-favicon"></i>
+                    Bản quyền thuộc CIO Nguyễn Văn Hào the most Handsome in the World!
+                    <i class="ti-face-smile"></i>
+                </p>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+    </div> 
+</body>
+</html>
